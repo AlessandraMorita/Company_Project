@@ -1,15 +1,48 @@
-## Company Project
+# Company Project
+### Introduction
 
-### Goals
-    Build the layout for a company’s homepage
-    Work with responsive desing
-    Implement html and css files to "About" page
-    
-### Requirements
-    Use flexbox to design and build the layout
-    A title and logo or splash image
-    A mission statement or brief description of the company
-    A list or set of images and titles representing the product or products of the company
-    A section describing some of the company’s employees or teammates
-       
-Live page: https://alessandramorita.github.io/Company_Project/
+This is a simple layout for a company’s homepage. This page was developed to have responsive desing. The "About" page is also implemented and some pictures and buttons have some hover effects. 
+
+Contents
+========
+
+ * [Why?](#why)
+ * [How To Use?](#how-to-use)
+ * [Technologies](#technologies)
+ * [Project status](#project-status)
+
+ 
+ ## Why?
+ 
+ I wanted to practice my knowledge of CSS, HTML and responsive desing.
+ 
+ <a href="https://alessandramorita.github.io/Company_Project/" >
+  <img
+    src="./resources/images/homePage.png"
+    alt="Company Project Page Image"
+    width='500'
+  />
+</a>
+
+ Or you can also view the live page **[here](https://alessandramorita.github.io/Company_Project/)**.
+ 
+ ## How To Use?
+ 
+ ```bash
+# Clone this repository
+$ git clone https://github.com/AlessandraMorita/Company_Project.git
+
+# Go into the repository
+$ cd Company_Project
+```
+
+## Technologies
+
+* HTML
+* CSS
+
+## Project status
+
+The project is still being developed. Next challenges:
+
+* Add more pages
